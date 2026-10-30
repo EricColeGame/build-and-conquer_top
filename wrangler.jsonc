@@ -1,0 +1,14 @@
+{
+  "name": "build-and-conquer-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "build-and-conquer.top",
+      "custom_domain": true
+    }
+  ]
+}
