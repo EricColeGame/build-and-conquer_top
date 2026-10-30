@@ -1,1 +1,501 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Build and Conquer",
+    "shortName": "Build and Conquer",
+    "tagline": "Estratégia de construção de cidades e guerra moderna no Roblox",
+    "description": "A Wiki de Build and Conquer cobre o jogo de estratégia Roblox da The Slop Company: níveis de cidade, recursos, pesquisa, mísseis, drones e guias para iniciantes.",
+    "legalNotice": "Wiki de fã independente para Build and Conquer. Não afiliada à The Slop Company nem à Roblox."
+  },
+  "nav": {
+    "guide": "Guia",
+    "progression": "Progressão",
+    "mechanics": "Mecânicas",
+    "download": "Download",
+    "codes": "Códigos"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Build and Conquer - Guias de cidade, militar e recursos",
+      "description": "Guias de Build and Conquer para Roblox cobrindo prioridades para iniciantes, níveis de cidade, população, recursos, pesquisa, produção militar e estratégia multijogador."
+    },
+    "hero": {
+      "eyebrow": "Estratégia de construção de cidades e guerra moderna no Roblox",
+      "title": "Wiki de Build and Conquer",
+      "description": "Build and Conquer é uma experiência de estratégia Roblox da The Slop Company: comece com um terreno vazio e desenvolva um país com estradas, moradias, fábricas, energia e água, depois pesquise tecnologia, fabrique mísseis e drones e lute contra outras nações por terreno estratégico.",
+      "stats": [
+        "3.7M+ visitas no Roblox",
+        "8,500+ membros do grupo",
+        "20K+ membros no Discord",
+        "V0.1 Beta"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Códigos ativos",
+      "tertiaryCta": "Jogar no Roblox",
+      "videoLabel": "Tutorial de jogabilidade da comunidade"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver todos"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em Build and Conquer",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Configure energia, água, moradias e suas primeiras lojas em uma ordem prática, depois expanda sem travar sua força de trabalho."
+        },
+        {
+          "number": "2",
+          "title": "Níveis de cidade mais rápidos",
+          "description": "Passe de moradias iniciais para apartamentos e escritórios planejando a população, os serviços públicos e os empregos que cada nível de cidade exige."
+        },
+        {
+          "number": "3",
+          "title": "Dinheiro e recursos",
+          "description": "Construa uma cadeia de renda estável em torno de prédios comerciais, carvão, ferro, petróleo, fazendas e serviços públicos antes da produção militar."
+        },
+        {
+          "number": "4",
+          "title": "Códigos e recompensas",
+          "description": "Veja se Build and Conquer tem códigos ativos, onde recompensas oficiais são anunciadas e como evitar alegações inseguras de terceiros."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Guias populares",
+      "title": "Páginas em alta de Build and Conquer",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Níveis de cidade",
+        "Recursos",
+        "Guia militar"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes de Build and Conquer",
+          "description": "Planeje energia, água, moradias, trabalhadores e renda comercial antes de expandir seu exército.",
+          "href": "/guide/build-and-conquer-beginner-guide"
+        },
+        {
+          "badge": "Progressão",
+          "title": "Níveis de cidade e população",
+          "description": "Veja as opções de moradia, serviços e construção que ficam disponíveis conforme sua cidade cresce.",
+          "href": "/guide/build-and-conquer-levels"
+        },
+        {
+          "badge": "Economia",
+          "title": "Recursos e produção",
+          "description": "Conecte carvão, ferro, petróleo, energia, água e comida para manter a cidade e os militares abastecidos.",
+          "href": "/mechanics/build-and-conquer-resources"
+        },
+        {
+          "badge": "Militar",
+          "title": "Militar e defesa",
+          "description": "Prepare pesquisa, produção, mobilização de tropas, alianças e defesas da cidade para o conflito.",
+          "href": "/mechanics/build-and-conquer-military"
+        },
+        {
+          "badge": "Recompensas",
+          "title": "Códigos de Build and Conquer",
+          "description": "Verifique o status atual dos códigos e encontre os locais oficiais onde notícias de recompensas aparecem.",
+          "href": "/codes/build-and-conquer-codes"
+        },
+        {
+          "badge": "População",
+          "title": "População em Build and Conquer",
+          "description": "Use moradias, água e energia para aumentar moradores e fornecer trabalhadores para a economia em geral.",
+          "href": "/progression/build-and-conquer-population"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Build and Conquer?",
+      "paragraphs": [
+        "Build and Conquer é uma experiência de estratégia Roblox da The Slop Company. Você começa em um terreno vazio e desenvolve um país funcional com estradas, moradias, fazendas, lojas, fábricas, usinas de energia e redes de água. A população fornece trabalhadores, prédios comerciais geram dinheiro e os serviços públicos mantêm toda a cidade funcionando.",
+        "À medida que sua nação se expande, Build and Conquer adiciona pesquisa, fabricação de veículos e mísseis, mobilização de tropas por túneis, alianças, defesa da cidade e batalhas por áreas estratégicas. Nossos guias cobrem cada sistema, desde a primeira conexão de serviços públicos até a produção militar no final do jogo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "The Slop Company"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Estratégia"
+        },
+        {
+          "label": "Visitas",
+          "value": "3.7M+"
+        },
+        {
+          "label": "Membros do grupo",
+          "value": "8,500+"
+        },
+        {
+          "label": "Versão",
+          "value": "V0.1 Beta"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Wiki de Build and Conquer",
+      "description": "Planeje uma cidade funcional, aumente sua população, conecte a produção e prepare um exército com guias práticos de Build and Conquer.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guia para iniciantes de Build and Conquer",
+          "description": "Percorra a primeira hora: reivindique seu terreno, construa estradas, forneça energia e água, defina zonas residenciais e gere renda antes de expandir os militares.",
+          "href": "/guide/build-and-conquer-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Garanta cobertura de energia e água antes de colocar seu primeiro bloco de moradias."
+            },
+            {
+              "label": "2",
+              "detail": "Adicione moradias para fornecer moradores e trabalhadores, depois verifique se os serviços públicos estão conectados."
+            },
+            {
+              "label": "3",
+              "detail": "Abra prédios comerciais, como lojas, quando trabalhadores e serviços públicos puderem sustentá-los."
+            },
+            {
+              "label": "4",
+              "detail": "Reinvista a renda em mais moradias, serviços e produção em vez de acelerar um exército."
+            },
+            {
+              "label": "5",
+              "detail": "Construa fazendas e cadeias de recursos para cobrir as necessidades de comida, carvão, ferro e petróleo."
+            },
+            {
+              "label": "6",
+              "detail": "Adicione produção militar e defesa depois que a economia civil puder financiá-las."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Construção de cidades e layouts de Build and Conquer",
+          "description": "Entenda prédios residenciais, comerciais, agrícolas, de recursos, industriais e de serviços públicos, depois organize distritos conectados que mantenham trabalhadores e serviços fluindo.",
+          "href": "/mechanics/build-and-conquer-city",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Moradias",
+              "detail": "Casas aumentam a população e fornecem os trabalhadores necessários para prédios comerciais e industriais."
+            },
+            {
+              "label": "Serviços públicos",
+              "detail": "Painéis solares, turbinas eólicas, torres de água e usinas de energia mantêm residências e empresas funcionando."
+            },
+            {
+              "label": "Estradas",
+              "detail": "Planeje distritos conectados para que novas moradias, serviços e produção possam se expandir sem gargalos."
+            },
+            {
+              "label": "Comércio",
+              "detail": "Lojas, shoppings, postos de gasolina, bancos e escritórios transformam trabalhadores e serviços públicos em renda da cidade."
+            },
+            {
+              "label": "Indústria",
+              "detail": "Fábricas e prédios de produção convertem matérias-primas em bens de consumo e suprimentos militares."
+            },
+            {
+              "label": "Fazendas",
+              "detail": "A agricultura fornece comida para os cidadãos e sustenta uma população maior conforme a cidade cresce."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Níveis de cidade e população em Build and Conquer",
+          "description": "Veja como os níveis de cidade ampliam suas opções de construção, de casas e lojas iniciais a apartamentos, escritórios e serviços urbanos maiores.",
+          "href": "/guide/build-and-conquer-levels",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "L1",
+              "detail": "Casa Pobre, Casa, Painel Solar, Turbina Eólica, Torre de Água, Loja e Apartamento de Classe Média."
+            },
+            {
+              "label": "L2",
+              "detail": "Apartamento de Baixa Renda, Usina a Carvão, Centro Comercial de Rua e Prédio de Escritórios Básico 1."
+            },
+            {
+              "label": "L3",
+              "detail": "Apartamento Urbano, Supermercado Grande e Prédio de Escritórios de Baixa Altura."
+            },
+            {
+              "label": "L4",
+              "detail": "Apartamentos Urbanos de Média Altura, Apartamento Urbano de Alta Altura e prédios de escritórios maiores."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Recursos e produção em Build and Conquer",
+          "description": "Mapeie a cadeia de produção de carvão, ferro, petróleo, energia, água, comida e bens manufaturados que mantém a economia civil e os militares funcionando.",
+          "href": "/mechanics/build-and-conquer-resources",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Carvão",
+              "detail": "Minas fornecem carvão para energia e produção, enquanto usinas a carvão ampliam a eletricidade da cidade."
+            },
+            {
+              "label": "Ferro",
+              "detail": "Minas de ferro alimentam cadeias de aço e manufatura para construções, veículos e projetos militares."
+            },
+            {
+              "label": "Petróleo",
+              "detail": "Bombas de petróleo fornecem insumos de combustível para veículos, fábricas e produção militar."
+            },
+            {
+              "label": "Energia",
+              "detail": "Painéis solares e turbinas eólicas sustentam a capacidade inicial, enquanto usinas a carvão atendem à demanda maior."
+            },
+            {
+              "label": "Água",
+              "detail": "Torres de água cobrem áreas de serviço locais e usinas de dessalinização fornecem água para toda a cidade."
+            },
+            {
+              "label": "Comida",
+              "detail": "Fazendas alimentam os cidadãos e ajudam a sustentar uma população e força de trabalho em crescimento."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Pesquisa e tecnologia em Build and Conquer",
+          "description": "Siga o caminho de pesquisa de uma economia urbana estável até produção avançada, desbloqueios militares e defesas mais fortes.",
+          "href": "/mechanics/build-and-conquer-city",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Garanta energia, água, moradias e renda comercial antes de começar a pesquisa militar."
+            },
+            {
+              "label": "A",
+              "detail": "Abra pesquisa de produção para veículos, mísseis e fábricas quando os recursos estiverem estáveis."
+            },
+            {
+              "label": "B",
+              "detail": "Adicione tecnologia defensiva depois que sua cidade puder absorver o custo de manutenção e perdas."
+            },
+            {
+              "label": "C",
+              "detail": "Mantenha projetos de combate caros em espera até que trabalhadores e materiais não sejam mais um gargalo para o crescimento."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Militar, mísseis e drones em Build and Conquer",
+          "description": "Cubra guerra terrestre, aérea e de mísseis, incluindo quartéis, fábricas militares, prédios de drones, locais de lançamento e sistemas de defesa aérea.",
+          "href": "/mechanics/build-and-conquer-military",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mísseis",
+              "detail": "Pesquise e fabrique mísseis, depois implante-os a partir de locais de lançamento para pressionar nações rivais."
+            },
+            {
+              "label": "Drones",
+              "detail": "Prédios de guerra com drones ampliam suas opções aéreas junto com forças terrestres e de mísseis."
+            },
+            {
+              "label": "Veículos",
+              "detail": "Fábricas militares transformam tecnologia pesquisada e recursos em veículos para a linha de frente."
+            },
+            {
+              "label": "Defesa",
+              "detail": "Baterias Patriot, sistemas Iron Dome e outras defesas protegem a cidade enquanto seu exército é mobilizado."
+            },
+            {
+              "label": "Túneis",
+              "detail": "As tropas viajam por túneis do seu território até o continente antes de enfrentar outras nações."
+            },
+            {
+              "label": "Alianças",
+              "detail": "Coordene com jogadores aliados para defender cidades e disputar terreno estratégico no mapa compartilhado."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Multijogador e estratégia em equipe em Build and Conquer",
+          "description": "Planeje partidas em mapa compartilhado com até oito jogadores, incluindo alianças, defesa da cidade, mobilização por túneis e disputas por áreas estratégicas.",
+          "href": "/mechanics/build-and-conquer-military",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mapa compartilhado",
+              "detail": "Partidas reúnem até oito jogadores em um mapa, criando espaço para cooperação e rivalidade."
+            },
+            {
+              "label": "Alianças",
+              "detail": "Una-se a outras nações para dividir a pressão, defender território e coordenar ataques."
+            },
+            {
+              "label": "Defesa",
+              "detail": "Mantenha a defesa aérea e as forças terrestres prontas enquanto suas tropas operam longe de casa."
+            },
+            {
+              "label": "Túneis",
+              "detail": "Mova tropas para o continente por rotas de túneis antes de avançar para áreas disputadas."
+            },
+            {
+              "label": "Estratégico",
+              "detail": "Lute por áreas estratégicas que dão à sua nação vantagem no conflito maior."
+            },
+            {
+              "label": "Equipes",
+              "detail": "Atribua funções de construção, produção e combate para que cada jogador fortaleça o esforço de guerra compartilhado."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações e notícias da beta de Build and Conquer",
+          "description": "Acompanhe o roteiro da beta, mudanças de balanceamento e notícias dos desenvolvedores da The Slop Company conforme Build and Conquer cresce.",
+          "href": "/download/build-and-conquer-download",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "V0.1",
+              "detail": "Build and Conquer é atualmente apresentado como uma beta V0.1 no Roblox."
+            },
+            {
+              "label": "Atualizações",
+              "detail": "A The Slop Company continua a desenvolver a experiência, com mudanças contínuas em construções e balanceamento."
+            },
+            {
+              "label": "Balanceamento",
+              "detail": "Acompanhe mudanças nos custos de construção, necessidades de trabalhadores e valores de produção ao planejar uma nova cidade."
+            },
+            {
+              "label": "Roteiro",
+              "detail": "Siga anúncios oficiais sobre novos sistemas, adições militares e recursos de construção de cidades."
+            },
+            {
+              "label": "Discord",
+              "detail": "Entre no Discord oficial da The Slop Company para discussão de atualizações, dicas de jogadores e notícias de desenvolvimento."
+            },
+            {
+              "label": "Roblox",
+              "detail": "Use a página oficial da experiência Build and Conquer para ver a versão atual e o acesso."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Build and Conquer.",
+      "items": [
+        {
+          "question": "O que é Build and Conquer?",
+          "answer": "Build and Conquer é um jogo de estratégia Roblox da The Slop Company. Você desenvolve um país a partir de um terreno vazio, administra moradias, trabalhadores, serviços públicos e produção, depois pesquisa tecnologia e constrói um exército para defender seu território e lutar por áreas estratégicas."
+        },
+        {
+          "question": "O que devo construir primeiro em Build and Conquer?",
+          "answer": "Comece com energia e água, adicione moradias para que os moradores possam fornecer trabalhadores e depois coloque prédios comerciais, como lojas. Mantenha cada novo prédio conectado aos serviços públicos e à força de trabalho de que precisa."
+        },
+        {
+          "question": "Como aumento a população em Build and Conquer?",
+          "answer": "Construa moradias residenciais e forneça água e energia. Casas e apartamentos maiores adicionam mais moradores, e esses moradores fornecem os trabalhadores necessários para empresas e prédios de produção."
+        },
+        {
+          "question": "Como funciona o dinheiro em Build and Conquer?",
+          "answer": "Prédios comerciais são a principal fonte de dinheiro em Build and Conquer. Eles precisam de trabalhadores das moradias, além de energia, água e outros insumos mostrados nos detalhes do prédio, então compare a renda com os custos de construção e manutenção."
+        },
+        {
+          "question": "O que posso pesquisar em Build and Conquer?",
+          "answer": "A pesquisa em Build and Conquer apoia produção avançada, equipamentos militares, veículos, mísseis e defesas mais fortes. Mantenha a economia civil estável para que fábricas e projetos de pesquisa tenham os trabalhadores e recursos de que precisam."
+        },
+        {
+          "question": "Build and Conquer tem multijogador?",
+          "answer": "Sim. Partidas de Build and Conquer podem hospedar até oito jogadores em um mapa compartilhado. Os jogadores podem formar alianças, defender suas cidades, mobilizar tropas por túneis e competir por áreas estratégicas."
+        },
+        {
+          "question": "Onde posso encontrar códigos de Build and Conquer?",
+          "answer": "A página oficial da experiência Build and Conquer não lista códigos resgatáveis nem um menu de inserção de códigos. Acompanhe os anúncios oficiais da The Slop Company e nunca insira sua senha do Roblox em um site de recompensas de terceiros."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Build and Conquer?",
+      "description": "Planeje sua primeira cidade, desenvolva sua economia, pesquise novas tecnologias e leve a luta às nações rivais com nossos guias de estratégia gratuitos para Roblox.",
+      "primary": "Ver guias para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia de Build and Conquer",
+    "overviewDescription": "Comece com guias para iniciantes de Build and Conquer que cobrem sua primeira cidade, energia e água, moradias, renda e o sistema de níveis."
+  },
+  "progression": {
+    "overviewTitle": "Progressão em Build and Conquer",
+    "overviewDescription": "Aprenda como população, trabalhadores, dinheiro e crescimento da cidade funcionam juntos em Build and Conquer."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Build and Conquer",
+    "overviewDescription": "Explore construção de cidades, produção de recursos, sistemas militares, pesquisa e defesa em Build and Conquer."
+  },
+  "download": {
+    "overviewTitle": "Download de Build and Conquer",
+    "overviewDescription": "Encontre a experiência oficial de Build and Conquer no Roblox e saiba como acessar o jogo."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Build and Conquer",
+    "overviewDescription": "Verifique o status atual dos códigos de Build and Conquer e saiba onde os anúncios oficiais aparecem."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Build and Conquer",
+    "about": "A Wiki de Build and Conquer é uma central de guias independente feita por fãs que cobre construção de cidades, recursos, pesquisa, mísseis, drones e estratégia para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Build and Conquer. Não afiliada à The Slop Company nem à Roblox.",
+    "description": "Estratégia de construção de cidades e guerra moderna no Roblox da The Slop Company.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "TikTok oficial",
+    "vvBuilder": "Grupo oficial no Roblox",
+    "beginnerGuide": "Guias e tutoriais",
+    "progressionGuide": "Progressão",
+    "mechanicsGuide": "Mecânicas do jogo",
+    "downloadGuide": "Download",
+    "codesGuide": "Códigos",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}
