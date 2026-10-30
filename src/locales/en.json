@@ -6,7 +6,13 @@
     "description": "Build and Conquer Wiki covers the Roblox strategy game by The Slop Company: city levels, resources, research, missiles, drones, and beginner guides.",
     "legalNotice": "Independent fan wiki for Build and Conquer. Not affiliated with The Slop Company or Roblox."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "download": "Download",
+    "codes": "Codes"
+  },
   "home": {
     "meta": {
       "title": "Build and Conquer Wiki - City, Military & Resource Guides",
@@ -435,7 +441,26 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Build and Conquer Guide",
+    "overviewDescription": "Start with Build and Conquer beginner guides covering your first city, power and water, housing, income, and the level system."
+  },
+  "progression": {
+    "overviewTitle": "Build and Conquer Progression",
+    "overviewDescription": "Learn how population, workers, money, and city growth work together in Build and Conquer."
+  },
+  "mechanics": {
+    "overviewTitle": "Build and Conquer Mechanics",
+    "overviewDescription": "Explore Build and Conquer city building, resource production, military systems, research, and defense."
+  },
+  "download": {
+    "overviewTitle": "Build and Conquer Download",
+    "overviewDescription": "Find the official Build and Conquer Roblox experience and learn how to access the game."
+  },
+  "codes": {
+    "overviewTitle": "Build and Conquer Codes",
+    "overviewDescription": "Check the current Build and Conquer code status and learn where official announcements appear."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -466,9 +491,10 @@
     "officialYoutube": "Official TikTok",
     "vvBuilder": "Official Roblox Group",
     "beginnerGuide": "Guides & Tutorials",
-    "raceGuides": "Races",
-    "bossGuides": "Bosses",
-    "buildGuide": "Skills & Builds",
+    "progressionGuide": "Progression",
+    "mechanicsGuide": "Game Mechanics",
+    "downloadGuide": "Download",
+    "codesGuide": "Codes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
