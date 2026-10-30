@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     tiktok: "https://www.tiktok.com/@the.slop.company",
     robloxGroup: "https://www.roblox.com/groups/52990522",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "pt", "es", "de"],
   defaultLocale: "en",
 };
